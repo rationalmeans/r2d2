@@ -1,1 +1,12 @@
-["archer.coffee", "carlton.coffee", "hubotagainsthumanity.coffee", "location-decision-maker.coffee", "lolz.coffee", "rdio.coffee", "roll.coffee", "rotten.coffee", "weather.coffee"]
+[
+  "archer.coffee",
+  "carlton.coffee",
+  "darksky.coffee",
+  "hubotagainsthumanity.coffee",
+  "location-decision-maker.coffee",
+  "lolz.coffee",
+  "rdio.coffee",
+  "roll.coffee",
+  "rotten.coffee",
+  "weather.coffee"
+]
